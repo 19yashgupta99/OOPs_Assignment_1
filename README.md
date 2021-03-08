@@ -1,6 +1,7 @@
 # OOPs_Assignment_1
 
 In this project I created 3 thing mention below:-
+
 A trait:
 	It has two variables and a method "<" for the comparision between two object's 	parameters.
  
